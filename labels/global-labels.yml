@@ -1,5 +1,5 @@
 - name: Department - engg
-  descritpion: Host belong to members of engineering Department
+  description: Host belong to members of engineering Department
   label_membership_type: host_vitals
   criteria:
     vital : end_user_idp_department
@@ -9,4 +9,3 @@
   description: hosts with uptime greater than 30 
   query: SELECT 1 FROM uptime WHERE days > 30
   label_membership_type: dynamic
-  
