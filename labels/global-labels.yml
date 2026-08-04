@@ -4,3 +4,9 @@
   criteria:
     vital : end_user_idp_department
     value: engineering
+- name : uptime 
+  platform: darwin
+  description: hosts with uptime greater than 30 
+  query: SELECT 1 FROM uptime WHERE days > 30
+  label_membership_type: dynamic
+  
