@@ -26,10 +26,10 @@ org_settings:
 fleet_desktop : 
     transparency_url: https://catoftheday.com
   
-webhook_settings:
-  activities_webhook:
-    enable_activities_webhook: true
-    destination_url: https://webhook.site/c7eb45cb-9b36-4511-81f3-3d48190b6355
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/c7eb45cb-9b36-4511-81f3-3d48190b6355
   server_settings:
     ###########################################################
     # The server URL where Fleet is running.
