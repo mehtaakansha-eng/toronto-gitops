@@ -1,7 +1,6 @@
 - name: Department - engg
-  descriitpion: Host belong to members of engineering Department
+  descritpion: Host belong to members of engineering Department
   label_membership_type: host_vitals
   criteria:
     vital : end_user_idp_department
     value: engineering
-    
