@@ -7,3 +7,6 @@
 
     If you see the message "This feature isn't available with the Apple Account you're currently using." you will need to delete and re-install the app.
   platform: darwin
+webhooks_and_ticktes_enabled: true
+destibnation_url: https://webhook.site/c7eb45cb-9b36-4511-81f3-3d48190b6355
+host_batch_size: 0
